@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://erdenese.visualstudio.com/calculator/_apis/build/status/ErdeNese.calculator?branchName=master)](https://erdenese.visualstudio.com/calculator/_build/latest?definitionId=3&branchName=master)
